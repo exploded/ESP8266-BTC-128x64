@@ -1,6 +1,8 @@
 # ESP8266 BTC Ticker
 
 Bitcoin price ticker for ESP8266 with a 128×64 SSD1306 OLED display (yellow/blue bicolour).
+You can buy these on AliExpress for about AUD$6.00 with the screen already conneccted.
+[text](README.md)
 
 Cycles through four screens every 5 seconds:
 - **BTC/AUD** — current Bitcoin price in Australian dollars
